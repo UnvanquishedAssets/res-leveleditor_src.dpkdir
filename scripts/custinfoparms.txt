@@ -6,3 +6,7 @@
 	nohumanbuild 0x2000
 	nobuild 0x4000
 }
+
+//custom SURF_ flags
+{
+}
